@@ -164,6 +164,3 @@ The project generates the following visual outputs:
 - **Media Analysis:** Include media statistics for chats exported with attachments.
 - **Interactive Dashboards:** Integrate dashboards using Streamlit or Plotly for dynamic visualizations.
 - **Sentiment Timeline:** Analyze user sentiment over time for deeper insights.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
