@@ -11,9 +11,7 @@ Analyze WhatsApp chat data to uncover patterns, trends, and insights into messag
 - [Installation](#installation)
 - [Usage](#usage)
 - [Detailed Analysis](#detailed-analysis)
-- [Sample Outputs](#sample-outputs)
 - [Future Improvements](#future-improvements)
-- [License](#license)
 
 ## Overview
 This project analyzes WhatsApp chat exports (group or individual conversations) to extract meaningful insights. By applying data processing and visualization techniques, the project identifies:
@@ -148,16 +146,6 @@ The project generates the following visual outputs:
 - Bar plots for message statistics
 - Line charts for activity trends over time
 - Word clouds for common words
-
-## Sample Outputs
-1. **Most Active Users**
-   ![Most Active Users](images/activity_plot.png)
-
-2. **Word Cloud**
-   ![Word Cloud](images/wordcloud.png)
-
-3. **Daily Activity Trends**
-   Line plots showing message frequency trends by date.
 
 ## Future Improvements
 - **Sentiment Analysis:** Classify messages as positive, negative, or neutral using NLP techniques.
